@@ -97,7 +97,6 @@ Overpass Turboなどを使用し、両島の建物・道路・施設・障害物
 
 ### 先行研究・参考資料
 - 安部遼祐・良知俊平（2023）「ドローン配送の利用意向と効果」運輸総合研究所研究報告会
-- 愛知県（2024）「物流ドローン社会実装モデル推進事業」
 - Madawalagama, S., Meng, L., & Murphy, C. (2023). *ODM2OSM: A tool to extract building information from open drone data to enrich OpenStreetMap*. Abstracts of the ICA, 6. https://doi.org/10.5194/ica-abs-6-149-2023
 - DLR（2021）. *Dynamic geofencing system with open geospatial data*. https://elib.dlr.de/148144
 
