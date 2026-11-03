@@ -97,8 +97,7 @@ Overpass Turboなどを使用し、両島の建物・道路・施設・障害物
 
 ### 先行研究・参考資料
 - 安部遼祐・良知俊平（2023）「ドローン配送の利用意向と効果」運輸総合研究所研究報告会
-- Madawalagama, S., Meng, L., & Murphy, C. (2023). *ODM2OSM: A tool to extract building information from open drone data to enrich OpenStreetMap*. Abstracts of the ICA, 6. https://doi.org/10.5194/ica-abs-6-149-2023
-- DLR（2021）. *Dynamic geofencing system with open geospatial data*. https://elib.dlr.de/148144
+- Moorthy「公開地理空間データの品質評価とドローンの飛行計画」（2022年）
 
 ---
 
@@ -201,7 +200,6 @@ OSMとPLATEAUなどの既存データを比較するとともに、現地調査�
 ### 先行研究・参考資料
 - 二神透ほか（2011）「重点木造密集市街地における地震火災リスク・コミュニケーションに関する研究」土木学会論文集D3, 67(5), I_35–I_43.
 - 藤井正俊（2006）「木造密集市街地における火災延焼リスクの簡易的評価手法に関する研究」筑波大学博士論文
-- Madawalagama, S., Meng, L., & Murphy, C. (2023). *ODM2OSM: A tool to extract building information from open drone data to enrich OpenStreetMap*. Abstracts of the ICA, 6. https://doi.org/10.5194/ica-abs-6-149-2023
 - 横浜市「密集市街地における地震火災対策計画」関連資料
 
 ---
