@@ -89,6 +89,14 @@ Barron et al.（2014）は、OSMに登録されている情報や編集履歴な
 
 3. Barron, C., Neis, P., & Zipf, A.（2014）「A Comprehensive Framework for Intrinsic OpenStreetMap Quality Analysis」  
    https://doi.org/10.1111/tgis.12073
+
+### 1.7 本研究の新規性
+
+既往研究や関連事例では、ドローンの飛行経路に必要な障害物情報、離島での物流実証、OpenStreetMap（OSM）のデータ品質評価などが扱われている。
+
+本研究では、これらとは異なる視点として、東京都新島村の新島・式根島を対象に、ドローン物流の検討に関連する地理空間情報がOSMにどのように登録されているかに着目する。
+
+具体的には、建物、道路、港・ヘリポート、電力設備、土地利用の5項目を同じ対象地域で調査し、登録件数に加えて建物のheightタグの付与状況を確認する。
 ---
 
 ## II. Methods（研究方法）
